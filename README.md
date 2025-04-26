@@ -6,17 +6,47 @@
 
 <p align="left"> <a href="https://twitter.com/nafea_anass" target="blank"><img src="https://img.shields.io/twitter/follow/nafea_anass?logo=twitter&style=for-the-badge" alt="nafea_anass" /></a> </p>
 
-- 🔭 I’m currently working on **Neo Motors App – A React Native app for vehicle browsing, user profiles, and spare parts management Quran App – A beautiful, feature-rich Quran reader with audio recitation, Qibla direction & Hadiths Exploring CI/CD pipelines for smoother app deployment Improving my TypeScript and animation skills with Reanimated & React Native Gesture Handler**
+### 🔭 I’m currently working on
 
-- 📚 I’m currently learning **TypeScript in depth – mastering types, generics, and advanced patterns React Native performance optimization – animations, lazy loading, and memory management React Native Reanimated & Gesture Handler – for smoother UI interactions CI/CD for mobile apps – using Fastlane, GitHub Actions, and App Center Design systems with tools like Figma → React Native implementation Unit & E2E testing with Jest, Detox, and Testing Library**
+- **Neo Motors App** – Vehicle browsing & user profile management  
+- **Quran App** – Quran reader with audio, Qibla, and Hadith features  
+- **CI/CD pipelines** – Automating deployment for mobile apps  
+- **Advanced animations** – Using Reanimated & Gesture Handler with TypeScript
 
-- 💬 Ask me about **Building mobile apps with React Native Using Redux and Context API for state management Styling with NativeWind, Styled Components, or Tailwind CSS Integrating APIs and backend services (REST) Mobile performance and best practices Setting up dev tools like Git, Postman, and Docker Career tips for junior mobile devs 🚀**
+### 📚 I’m currently learning
 
-- 📫 How to reach me **Email: nafeaanass15@gmail.com LinkedIn: linkedin.com/in/anas-naffa-796902193/ Phone: +212 697 625 056 (Rabat, Maroc)**
+- **TypeScript** – Deep dive into types, generics & patterns  
+- **React Native optimization** – Animations, lazy loading & memory management  
+- **Reanimated & Gesture Handler** – For fluid, interactive UIs  
+- **CI/CD pipelines** – Fastlane, GitHub Actions & App Center  
+- **Design systems** – Implementing Figma designs in React Native  
+- **Testing** – Writing unit & E2E tests with Jest and Detox
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ePXWzlhWGpbnu75d6RMiWB9oou6sfNFR/view?usp=drive_link](https://drive.google.com/file/d/1ePXWzlhWGpbnu75d6RMiWB9oou6sfNFR/view?usp=drive_link)
+### 💬 Ask me about
 
-- ⚡ Fun fact **I've always been passionate about building mobile apps and turning ideas into reality! My dream is to create innovative apps that solve real-world problems. 🚀**
+- **React Native** – Building mobile apps from scratch  
+- **State management** – Redux, Context API & best practices  
+- **Styling** – NativeWind, Styled Components & Tailwind CSS  
+- **API integration** – RESTful services & backend connections  
+- **Mobile performance** – Optimization tips & tools  
+- **Dev tools setup** – Git, Postman, Docker  
+- **Career advice** – For junior and aspiring mobile developers 🚀
+
+### 📫 How to reach me
+
+- **Email**: [nafeaanass15@gmail.com](mailto:nafeaanass15@gmail.com)  
+- **LinkedIn**: [Anas Naffa](https://www.linkedin.com/in/anas-naffa-796902193/)  
+- **Phone**: +212 697 625 056 (Rabat, Maroc)
+
+
+### 📄 Know about my experiences
+
+You can view my full resume [here 📄](https://drive.google.com/file/d/1ePXWzlhWGpbnu75d6RMiWB9oou6sfNFR/view?usp=drive_link).
+
+### ⚡ Fun fact
+
+I've always been passionate about building mobile apps and turning ideas into reality! My dream is to create innovative apps that solve real-world problems. 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
