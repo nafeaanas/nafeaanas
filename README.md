@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nafeaanas/nafeaanas/main/img.jpg" alt="My Image" title="This is an image" width="100%" height="100%"/>
+<img src="https://raw.githubusercontent.com/nafeaanas/nafeaanas/main/img.jpg" alt="My Image" title="This is an image" width="100%" height="100%"/> 
 <h1 align="center">Hi 👋, I'm Anas Naffa</h1>
 <h3 align="center">Mobile Developer from Morocco 🇲🇦 | Building Smooth, Smart & Scalable Apps with React Native 📱</h3>
 <img align="right" alt="Anas is Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
